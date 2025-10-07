@@ -1,1 +1,1 @@
-"Project: Lab Git - change from MAIN" 
+"Project: Lab Git - change MAIN" 
